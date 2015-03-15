@@ -1,3 +1,5 @@
+# OSX temp files
+._*
 # KiCad backup files #
 ######################
 *.000
