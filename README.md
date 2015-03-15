@@ -1,6 +1,6 @@
 # RuuviTracker RevC3
 
-Contains schematics, datasheets etc.
+Contains schematics, datasheets etc. For code go to <https://github.com/ruuvitracker/ruuvitracker_fw>
 
 For STM32 docs see the following
 
@@ -10,8 +10,6 @@ For STM32 docs see the following
 
 TODO: Create a text file that maps the top/bottom drawing pin names to signal names
 
-
 [AN2629]:  http://www.st.com/st-web-ui/static/active/jp/resource/technical/document/application_note/CD00171691.pdf
 [AN3371]: http://www.st.com/web/en/resource/technical/document/application_note/DM00025071.pdf
 [RM0090]: http://www.st.com/web/en/resource/technical/document/reference_manual/DM00031020.pdf
-
