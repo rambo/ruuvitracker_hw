@@ -1,3 +1,3 @@
-# RuuviTracker RevC2
+# RuuviTracker RevC1
 
-Some old C2 related files.
+Some old C1 related files.
